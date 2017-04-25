@@ -1,0 +1,20 @@
+
+.row{
+    background-color:#ccccff;
+    width:95%;
+    min-height: 400px;
+    margin:0 auto;
+    margin-top:0;
+}
+.col-md-4{
+border-left: 1px solid darkgray;
+min-height:400px; 
+margin-top:30px;
+
+}
+.col-md-8{
+    margin-top:30px;
+    margin-bottom: 70px;
+
+}
+
